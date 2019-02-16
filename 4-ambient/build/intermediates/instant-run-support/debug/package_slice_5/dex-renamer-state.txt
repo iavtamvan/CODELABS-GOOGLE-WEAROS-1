@@ -1,0 +1,4 @@
+#Sat Feb 16 04:58:31 PST 2019
+base.0=F\:\\Data Project\\Project Wear\\watchface\\4-ambient\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_5
+renamed.0=classes.dex
+file.0=F\:\\Data Project\\Project Wear\\watchface\\4-ambient\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_5\\classes.dex

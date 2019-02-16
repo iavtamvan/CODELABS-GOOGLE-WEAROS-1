@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="F:\Data Project\Project Wear\watchface\3-hands\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f2c98be9013453557d6dfda3bac79d34c77dc29b">
+        <dex dex="F:\Data Project\Project Wear\watchface\3-hands\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_53f7b59129205aca754890a0f9f04130bf2332c6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lenovo\.android\build-cache\6a5b777daddafb498c15d98ffb2a1be7b31152de\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cddfbb68753c7b1222ffb7af97bfd9ecf413aba7">
+        <dex dex="F:\Data Project\Project Wear\watchface\1-base\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5552f824cb88f2d66f8ec319a4be7d294badfb8d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lenovo\.android\build-cache\36ae3f0df3338b1d6b58ce98e0488ce94fa050b4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d41792854b7fb173e61c2bfea5044fd47df76114">
+        <dex dex="F:\Data Project\Project Wear\watchface\5-palette\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ba9b4686d09848c16fc434ff9c1e4b7f77833f47\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Data Project\Project Wear\watchface\5-palette\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c7a80bfde5ab87ca7560f88d4f31590d5466e52e">
+        <dex dex="F:\Data Project\Project Wear\watchface\5-palette\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_b4d985ab9a310de7b66a0b6e9764bd9fc8b1d53c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Data Project\Project Wear\watchface\4-ambient\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c323c36ecc68965c4cfb460f7721113d2b61ed03">
+        <dex dex="F:\Data Project\Project Wear\watchface\4-ambient\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_c43c34bf083a1e04a75d4a08f8a4efa2b4221faa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lenovo\.android\build-cache\94b0a03ccdce955e21bdf754da7342fef08c9f30\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6c74dab42788b458960618238f338d324b6f0656">
+        <dex dex="F:\Data Project\Project Wear\watchface\1-base\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d7cdf1f3cd9ab0bf277ca8c254a5d07f25ecd842\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Data Project\Project Wear\watchface\1-base\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ff8d7d1571d3cbcdf08462238e80c53e1ce70598">
+        <dex dex="F:\Data Project\Project Wear\watchface\1-base\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_a6c81b62ad1e1ff92324a45f915adf8b57023311\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Data Project\Project Wear\watchface\4-ambient\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="036f850f23f73dc0819bfc75ef6c0a00c616600c">
+        <dex dex="F:\Data Project\Project Wear\watchface\4-ambient\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_f35d1996e70f8fa201a9f3f9a2a11314002006a8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Data Project\Project Wear\watchface\1-base\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c323c36ecc68965c4cfb460f7721113d2b61ed03">
+        <dex dex="F:\Data Project\Project Wear\watchface\1-base\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_cbae3c4a1db1a65d31814a36a14d02324957288e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lenovo\.android\build-cache\bc66e546ae6a015945513c27f543e72108aa750e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="19696dc358ac668e341f28c41e3387d61ccdb81d">
+        <dex dex="F:\Data Project\Project Wear\watchface\1-base\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1e5246bac050eac910afa662d8da6be729c91ac1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Data Project\Project Wear\watchface\2-background\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c323c36ecc68965c4cfb460f7721113d2b61ed03">
+        <dex dex="F:\Data Project\Project Wear\watchface\2-background\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_085fa67a7b90b4879ea4e5b279d98bfeb5aabde8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lenovo\.android\build-cache\ae72aed390fc6444ef4c711ad3773bb342b2ad90\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bdcc2a9572f18b8c90a3a157cab6cdfc97c6c736">
+        <dex dex="F:\Data Project\Project Wear\watchface\1-base\build\intermediates\transforms\dex\debug\folders\1000\10\classes_41287b8b73cb269c180b8ead5c302908786f9a8a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lenovo\.android\build-cache\eb4cfc5017f53efecacfa347363dd16a69094bd4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="F:\Data Project\Project Wear\watchface\1-base\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8fe79bd5cefc3ecea8ed182fe675635329858f09\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Data Project\Project Wear\watchface\3-hands\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c323c36ecc68965c4cfb460f7721113d2b61ed03">
+        <dex dex="F:\Data Project\Project Wear\watchface\3-hands\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_7483c4283ecff34bad767622fcbb8c8bf3d4849c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lenovo\.android\build-cache\bb86df99e2f421d3708e3a5a511f80229429056f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6003d64df88a6ce5e961fa2bad7f1b9b97689ac1">
+        <dex dex="F:\Data Project\Project Wear\watchface\1-base\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a8b01a5a03d0243cdf9a963a60979707b0207497\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lenovo\.android\build-cache\72d9a2e2fc282e97e9680908c5df6c33fc6f9629\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="F:\Data Project\Project Wear\watchface\1-base\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1f33400f35b188694616de8ad97592bd06c0e457\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lenovo\.android\build-cache\de750c1b1d9a4b31b1d78f98c11af4c3991c2ad0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4d699dd197929286d19b015f4c142b8360f2137">
+        <dex dex="F:\Data Project\Project Wear\watchface\1-base\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ac8747f33d32837f27367d75aa6e231cd94e6e39\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Data Project\Project Wear\watchface\2-background\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1443afc79a7a55bb1c92c6c2960f4f17fa3f0152">
+        <dex dex="F:\Data Project\Project Wear\watchface\2-background\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_0c8e059dcd2b6fdeac7a8a1d086935ed4bc6ef01\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Data Project\Project Wear\watchface\5-palette\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c323c36ecc68965c4cfb460f7721113d2b61ed03">
+        <dex dex="F:\Data Project\Project Wear\watchface\5-palette\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_f82034909b525682a904c4cf39678a501c878905\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lenovo\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="F:\Data Project\Project Wear\watchface\1-base\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.0.0_ff39c0355fbd1f2afba3f45595e9449b2fdaed20\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lenovo\.android\build-cache\eb4cfc5017f53efecacfa347363dd16a69094bd4\output\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="F:\Data Project\Project Wear\watchface\1-base\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_4440d318b8b25da6deb5a91660eef1840b72cd2a\classes.dex" />
+    </item>
+
+</items>

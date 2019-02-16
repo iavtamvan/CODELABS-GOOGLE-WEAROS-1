@@ -1,0 +1,115 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\Data Project\Project Wear\watchface\2-background\src\main\AndroidManifest.xml:18:1-59:12
+	package
+		ADDED from F:\Data Project\Project Wear\watchface\2-background\src\main\AndroidManifest.xml:20:5-44
+		INJECTED from F:\Data Project\Project Wear\watchface\2-background\src\main\AndroidManifest.xml
+		INJECTED from F:\Data Project\Project Wear\watchface\2-background\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from F:\Data Project\Project Wear\watchface\2-background\src\main\AndroidManifest.xml
+		INJECTED from F:\Data Project\Project Wear\watchface\2-background\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from F:\Data Project\Project Wear\watchface\2-background\src\main\AndroidManifest.xml:19:5-51
+	xmlns:android
+		ADDED from F:\Data Project\Project Wear\watchface\2-background\src\main\AndroidManifest.xml:18:11-69
+	android:versionCode
+		INJECTED from F:\Data Project\Project Wear\watchface\2-background\src\main\AndroidManifest.xml
+		INJECTED from F:\Data Project\Project Wear\watchface\2-background\src\main\AndroidManifest.xml
+uses-feature#android.hardware.type.watch
+ADDED from F:\Data Project\Project Wear\watchface\2-background\src\main\AndroidManifest.xml:22:5-64
+	android:name
+		ADDED from F:\Data Project\Project Wear\watchface\2-background\src\main\AndroidManifest.xml:22:19-61
+uses-permission#com.google.android.permission.PROVIDE_BACKGROUND
+ADDED from F:\Data Project\Project Wear\watchface\2-background\src\main\AndroidManifest.xml:25:5-88
+	android:name
+		ADDED from F:\Data Project\Project Wear\watchface\2-background\src\main\AndroidManifest.xml:25:22-85
+uses-permission#android.permission.WAKE_LOCK
+ADDED from F:\Data Project\Project Wear\watchface\2-background\src\main\AndroidManifest.xml:26:5-68
+	android:name
+		ADDED from F:\Data Project\Project Wear\watchface\2-background\src\main\AndroidManifest.xml:26:22-65
+application
+ADDED from F:\Data Project\Project Wear\watchface\2-background\src\main\AndroidManifest.xml:28:5-57:19
+MERGED from [com.google.android.support:wearable:2.0.0] C:\Users\lenovo\.android\build-cache\de750c1b1d9a4b31b1d78f98c11af4c3991c2ad0\output\AndroidManifest.xml:6:5-19
+MERGED from [com.android.support:percent:23.0.1] C:\Users\lenovo\.android\build-cache\6a5b777daddafb498c15d98ffb2a1be7b31152de\output\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-wearable:10.2.1] C:\Users\lenovo\.android\build-cache\94b0a03ccdce955e21bdf754da7342fef08c9f30\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-base:10.2.1] C:\Users\lenovo\.android\build-cache\bc66e546ae6a015945513c27f543e72108aa750e\output\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:10.2.1] C:\Users\lenovo\.android\build-cache\bb86df99e2f421d3708e3a5a511f80229429056f\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.2.1] C:\Users\lenovo\.android\build-cache\ae72aed390fc6444ef4c711ad3773bb342b2ad90\output\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:24.0.0] C:\Users\lenovo\.android\build-cache\eb4cfc5017f53efecacfa347363dd16a69094bd4\output\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from F:\Data Project\Project Wear\watchface\2-background\src\main\AndroidManifest.xml:30:9-41
+	tools:ignore
+		ADDED from F:\Data Project\Project Wear\watchface\2-background\src\main\AndroidManifest.xml:32:9-46
+	android:allowBackup
+		ADDED from F:\Data Project\Project Wear\watchface\2-background\src\main\AndroidManifest.xml:29:9-35
+	android:theme
+		ADDED from F:\Data Project\Project Wear\watchface\2-background\src\main\AndroidManifest.xml:31:9-59
+service#com.android.example.watchface.MyWatchFaceService
+ADDED from F:\Data Project\Project Wear\watchface\2-background\src\main\AndroidManifest.xml:33:9-52:19
+	android:label
+		ADDED from F:\Data Project\Project Wear\watchface\2-background\src\main\AndroidManifest.xml:35:13-51
+	android:permission
+		ADDED from F:\Data Project\Project Wear\watchface\2-background\src\main\AndroidManifest.xml:36:13-67
+	android:name
+		ADDED from F:\Data Project\Project Wear\watchface\2-background\src\main\AndroidManifest.xml:34:13-47
+meta-data#android.service.wallpaper
+ADDED from F:\Data Project\Project Wear\watchface\2-background\src\main\AndroidManifest.xml:37:13-39:54
+	android:resource
+		ADDED from F:\Data Project\Project Wear\watchface\2-background\src\main\AndroidManifest.xml:39:17-51
+	android:name
+		ADDED from F:\Data Project\Project Wear\watchface\2-background\src\main\AndroidManifest.xml:38:17-57
+meta-data#com.google.android.wearable.watchface.preview
+ADDED from F:\Data Project\Project Wear\watchface\2-background\src\main\AndroidManifest.xml:40:13-42:63
+	android:resource
+		ADDED from F:\Data Project\Project Wear\watchface\2-background\src\main\AndroidManifest.xml:42:17-60
+	android:name
+		ADDED from F:\Data Project\Project Wear\watchface\2-background\src\main\AndroidManifest.xml:41:17-77
+meta-data#com.google.android.wearable.watchface.preview_circular
+ADDED from F:\Data Project\Project Wear\watchface\2-background\src\main\AndroidManifest.xml:43:13-45:63
+	android:resource
+		ADDED from F:\Data Project\Project Wear\watchface\2-background\src\main\AndroidManifest.xml:45:17-60
+	android:name
+		ADDED from F:\Data Project\Project Wear\watchface\2-background\src\main\AndroidManifest.xml:44:17-86
+intent-filter#android.service.wallpaper.WallpaperService+com.google.android.wearable.watchface.category.WATCH_FACE
+ADDED from F:\Data Project\Project Wear\watchface\2-background\src\main\AndroidManifest.xml:47:13-51:29
+action#android.service.wallpaper.WallpaperService
+ADDED from F:\Data Project\Project Wear\watchface\2-background\src\main\AndroidManifest.xml:48:17-85
+	android:name
+		ADDED from F:\Data Project\Project Wear\watchface\2-background\src\main\AndroidManifest.xml:48:25-82
+category#com.google.android.wearable.watchface.category.WATCH_FACE
+ADDED from F:\Data Project\Project Wear\watchface\2-background\src\main\AndroidManifest.xml:50:17-102
+	android:name
+		ADDED from F:\Data Project\Project Wear\watchface\2-background\src\main\AndroidManifest.xml:50:27-99
+meta-data#com.google.android.gms.version
+ADDED from F:\Data Project\Project Wear\watchface\2-background\src\main\AndroidManifest.xml:54:9-56:69
+MERGED from [com.google.android.gms:play-services-basement:10.2.1] C:\Users\lenovo\.android\build-cache\ae72aed390fc6444ef4c711ad3773bb342b2ad90\output\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from F:\Data Project\Project Wear\watchface\2-background\src\main\AndroidManifest.xml:56:13-66
+	android:name
+		ADDED from F:\Data Project\Project Wear\watchface\2-background\src\main\AndroidManifest.xml:55:13-58
+uses-sdk
+INJECTED from F:\Data Project\Project Wear\watchface\2-background\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.google.android.support:wearable:2.0.0] C:\Users\lenovo\.android\build-cache\de750c1b1d9a4b31b1d78f98c11af4c3991c2ad0\output\AndroidManifest.xml:4:5-72
+MERGED from [com.android.support:percent:23.0.1] C:\Users\lenovo\.android\build-cache\6a5b777daddafb498c15d98ffb2a1be7b31152de\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.0.1] C:\Users\lenovo\.android\build-cache\72d9a2e2fc282e97e9680908c5df6c33fc6f9629\output\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-wearable:10.2.1] C:\Users\lenovo\.android\build-cache\94b0a03ccdce955e21bdf754da7342fef08c9f30\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:10.2.1] C:\Users\lenovo\.android\build-cache\bc66e546ae6a015945513c27f543e72108aa750e\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:10.2.1] C:\Users\lenovo\.android\build-cache\bb86df99e2f421d3708e3a5a511f80229429056f\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:10.2.1] C:\Users\lenovo\.android\build-cache\ae72aed390fc6444ef4c711ad3773bb342b2ad90\output\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:24.0.0] C:\Users\lenovo\.android\build-cache\eb4cfc5017f53efecacfa347363dd16a69094bd4\output\AndroidManifest.xml:21:5-23:54
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:24.0.0] C:\Users\lenovo\.android\build-cache\eb4cfc5017f53efecacfa347363dd16a69094bd4\output\AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		INJECTED from F:\Data Project\Project Wear\watchface\2-background\src\main\AndroidManifest.xml
+		INJECTED from F:\Data Project\Project Wear\watchface\2-background\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from F:\Data Project\Project Wear\watchface\2-background\src\main\AndroidManifest.xml
+		INJECTED from F:\Data Project\Project Wear\watchface\2-background\src\main\AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.2.1] C:\Users\lenovo\.android\build-cache\bc66e546ae6a015945513c27f543e72108aa750e\output\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.2.1] C:\Users\lenovo\.android\build-cache\bc66e546ae6a015945513c27f543e72108aa750e\output\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.2.1] C:\Users\lenovo\.android\build-cache\bc66e546ae6a015945513c27f543e72108aa750e\output\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.2.1] C:\Users\lenovo\.android\build-cache\bc66e546ae6a015945513c27f543e72108aa750e\output\AndroidManifest.xml:19:19-85

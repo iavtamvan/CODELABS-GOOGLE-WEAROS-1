@@ -1,0 +1,7 @@
+#Sat Feb 16 04:32:24 PST 2019
+base.0=F\:\\Data Project\\Project Wear\\watchface\\3-hands\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_53f7b59129205aca754890a0f9f04130bf2332c6
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=F\:\\Data Project\\Project Wear\\watchface\\3-hands\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_7483c4283ecff34bad767622fcbb8c8bf3d4849c\\classes.dex
+base.1=F\:\\Data Project\\Project Wear\\watchface\\3-hands\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_7483c4283ecff34bad767622fcbb8c8bf3d4849c
+file.0=F\:\\Data Project\\Project Wear\\watchface\\3-hands\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_53f7b59129205aca754890a0f9f04130bf2332c6\\classes.dex
